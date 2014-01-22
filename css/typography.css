@@ -1,0 +1,168 @@
+html {
+  font: normal 100%/1.5  'Actor', sans-serif; /* 16px/24px */
+}
+
+h1, h2, h3, h4, h5, h6,
+p, ul, ol, dl,
+blockquote, table, hr {
+  margin: 0 0 1.5rem;
+}
+
+.yotta {
+  font-size: 3.5832rem;
+  line-height: 1.0204;
+}
+
+.zetta {
+  font-size: 2.9860rem;
+  line-height: 1.0047;
+}
+
+h1, .exa {
+  font-size: 2.4883rem;
+  line-height: 1.0173;
+  font-family: 'Actor', sans-serif;
+}
+
+h2, .peta {
+  font-size: 2.0736rem;
+  line-height: 1.0399;
+  font-family: 'Actor', sans-serif;
+}
+
+h3, .tera {
+  font-size: 1.7280rem;
+  line-height: 1.0308;
+  font-family: 'Actor', sans-serif;
+}
+
+h4, .giga {
+  font-size: 1.4400rem;
+  line-height: 1.0417;
+  font-family: 'Actor', sans-serif;
+}
+
+h5, .mega {
+  font-size: 1.2000rem;
+  line-height: 1.0156;
+  font-family: 'Actor', sans-serif;
+}
+
+h6, .kilo {
+  font-size: 1.0000rem;
+  line-height: 1.0313;
+  font-family: 'Actor', sans-serif;
+}
+
+small, .milli {
+  font-size: 0.8333rem;
+  line-height: 1.0125;
+}
+
+.micro {
+  font-size: 0.6944rem;
+  line-height: 1.0800;
+}
+
+h1, h2, h3, h4, h5, h6, 
+ .brand {
+	font-family:  'Actor', sans-serif;
+	color: #006;	
+}
+
+.brand-family {
+	font-family:  'Actor', sans-serif;
+}
+
+.brand-color {
+	color: #006;
+}
+
+ ::selection {
+	 background-color: #606;
+	 color: #FFF;	 
+ }
+ 
+ a,
+ a:link {
+	 color: #606;
+	 text-decoration: none;
+	 border-bottom: 0.1em solid rgba(0,200,0,0.5);
+	 transition: all 200ms linear;
+ }
+ 
+ 
+ a:visited {
+	 color: #603;
+	 border-bottom: rgba(150,200,150,0.5);
+ }
+ 
+ a:hover, 
+ a:focus, 
+ a:active {
+	 color: #606;
+	 border-bottom-color: #006;
+ }
+ 
+ ul{
+	 list-style-type: none;
+ }
+ 
+ ul li{ 
+ 	position: relative;
+ }
+ 
+ ul li:before {
+	 content: ">";
+	 color: #606;
+	 position: absolute;
+	 left: -1em;
+
+ }
+ 
+ table, th, td{
+	border: 1px solid black;
+	font: 'Actor', sans-serif;
+	
+}
+
+table{
+	border-collapse:collapse;
+}
+
+table,th, td{
+	border: 1px solid black;
+	
+}
+
+table{
+	width:80%;
+}
+
+th{
+	height:30px;
+}
+
+td{
+	text-align:right;
+}
+
+td{
+	height:40px;
+	vertical-align:bottom;
+}
+
+td{
+	padding:15px;
+}
+
+table, td, th{
+	border:1px solid black;
+}
+
+th{
+	background-color:#603;
+	color:#FFF;
+}
+
+       

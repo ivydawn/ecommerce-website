@@ -1,3 +1,13 @@
 @charset "UTF-8";
 /* CSS Document */
 
+.product {
+	background-color: #CCC;
+	width: 15rem;
+	padding: 2rem;
+}
+
+.img {
+	width: 50%;
+	
+}

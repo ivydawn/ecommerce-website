@@ -17,7 +17,7 @@
 .button-alt,
 .button-alt:link,
 .button-alt:visited { 
-	background-color: #FFF;
-	background-image: linear-gradient(to bottom, #006, #606);
+	background-color: #99C;
+	background-image: linear-gradient(to bottom, #666, #99C);
 }
 

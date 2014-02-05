@@ -1,5 +1,9 @@
 @charset "UTF-8";
 /* CSS Document */
 
-
-
+.grid-footer{
+	background-color: #99C;
+	border-color: #603;
+	height: 6rem;
+	clear: both;
+	text-align:center; 

@@ -6,7 +6,11 @@ image: earrings.jpg
 
 ---
 
-## Diamond Earrings
+*Diamond Earrings* are the most **beautiful accessory** that you can buy for a girl.  
 
 
-![Diamond Earrings](http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Pteranodon_amnh_martyniuk.jpg/456px-Pteranodon_amnh_martyniuk.jpg)
+## The 3 Cs 
+
+- Cut
+- Clarity
+- Carat 

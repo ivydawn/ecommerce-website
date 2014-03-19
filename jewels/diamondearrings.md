@@ -3,6 +3,9 @@ layout: jewels
 category: jewels
 title: Diamond Earrings
 image: earrings.jpg
+cut:
+clarity:
+carat: 
 
 ---
 

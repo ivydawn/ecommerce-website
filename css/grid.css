@@ -2,6 +2,10 @@
 	overflow: hidden;
 }
 
+.grid-promo-small{
+	text-align:center;
+}
+
 .unit {
 	float: left;
 	
@@ -37,5 +41,8 @@
 	width: 66.666%;
 }
 	
+
+.unit-l-1-5 {
+	width: 19%;
 }
 

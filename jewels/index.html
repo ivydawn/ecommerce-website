@@ -7,20 +7,27 @@ title: Jewels
 	<div class="unit unit-s-1 unit-m-1-2 unit-l-1-3">
 		<h1>Jewels!</h1>
 	</div>
+	
 	<div class="unit unit-s-1 unit-m-1-2 unit-l-2-3">
 		<p>Beautiful hand crafted diamond jewels!</p>
 	</div>
 </div>
 
-<ul>
-	{% for jewel in site.pages %}
+
+
+{% for jewel in site.pages %}
 		{% if jewel.category == 'jewels' %}
+
+<div class="unit gutter unit s-1 unit-m-1 unit-l-1-5">
+<ul>
 			<li>
 				<a href="{{site.baseurl}}{{jewel.url}}">
 					<img class="img-flex" src="{{site.baseurl}}/images/{{jewel.image}}" alt="" />
 					{{jewel.title}}
 				</a>
 			</li>
+</ul>
+</div>
+
 		{% endif %}
 	{% endfor %}
-</ul>

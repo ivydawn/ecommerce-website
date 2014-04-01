@@ -19,14 +19,16 @@ title: Jewels
 		{% if jewel.category == 'jewels' %}
 
 <div class="unit gutter unit s-1 unit-m-1 unit-l-1-5">
-<ul>
-			<li>
-				<a href="{{site.baseurl}}{{jewel.url}}">
-					<img class="img-flex" src="{{site.baseurl}}/images/{{jewel.image}}" alt="" />
-					{{jewel.title}}
-				</a>
-			</li>
-</ul>
+	<ul>
+				<li>
+					<a href="{{site.baseurl}}{{jewel.url}}">
+						<img class="img-flex" src="{{site.baseurl}}/images/{{jewel.image}}" alt="" />
+						{{jewel.title}}
+					</a>
+				</li>
+	</ul>
+	<a class="button micro" href="../cart.html">Click Here!</a>
+
 </div>
 
 		{% endif %}

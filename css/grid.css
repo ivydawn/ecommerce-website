@@ -1,5 +1,6 @@
 .grid {
 	overflow: hidden;
+
 }
 
 .grid-promo-small{
@@ -8,7 +9,8 @@
 
 .unit {
 	float: left;
-	
+	padding: 0.5rem;
+	background-color:#CCC;
 }
 
 .unit-s-1 {

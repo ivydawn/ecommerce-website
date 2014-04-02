@@ -1,6 +1,6 @@
 # User Testing Report
 
-User testing was conducted by {Ivy LaBossiere} on {April 1st 2014} between the times of {4:00pm} and {end time} with the following participants:
+User testing was conducted by {Ivy LaBossiere} on {April 1st 2014} between the times of {4:00pm} and {6:00pm} with the following participants:
 
 - {Giulia Balestra}
 - {Tara Boland}

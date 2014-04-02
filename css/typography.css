@@ -104,6 +104,21 @@ h1, h2, h3, h4, h5, h6,
 	 border-bottom-color: #006;
  }
  
+ a:hover,
+ a:active {
+	 /*It is okay to remove the focus rectangle for mouse actions */
+	 outline: none; 
+ }
+ 
+ a:focus 
+ input:focus
+ button:focus {
+
+	 /*Focus MOST ALWAYS have a focus rectangle for the keyboard users */
+	 outline: 3px solid #000; 
+ }
+ 
+ 
  ul{
 	 list-style-type: none;
  }

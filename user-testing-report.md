@@ -25,17 +25,14 @@ User testing was conducted by {Ivy LaBossiere} on {April 1st 2014} between the t
 
 ### {Tara Boland}
 
-- {He clicked on the link as expected…}
-- {He had troubles completing a specific task…}
-- {He asked these questions…}
-- {Fill in any observations that were important/relevant…}
+- {She clicked on the links that I wanted her to as expected.. didn't have problems finding the buttons, however some pages did not work when clicked on}
+- {She had troubles completing the shopping cart because the page is not linking/working for some reason}
+
 
 ### {Logan Brandwood}
 
-- {She clicked on the link as expected…}
-- {He had troubles completing a specific task…}
-- {She asked these questions…}
-- {Fill in any observations that were important/relevant…}
+- {She clicked on the links as expected everything worked except for the shopping cart}
+- {Pretty much the same thing as the other two participants}
 
 ---
 
@@ -43,12 +40,12 @@ User testing was conducted by {Ivy LaBossiere} on {April 1st 2014} between the t
 
 ### Critical, Needs Fixing, Unable to Complete
 
-- {All participants had this problem…}
+- {All participants could not see the cart page because it is not working with the rest of the site}
 
 ### Serious, Causes Frustration, May Hinder Completion
 
-- {Two of the participants succeeded where one of them failed…}
+- {Initial image on the page goes too big when the website is at full screen (large promo does not stop at a max width.. I would like for it to center itself and not get any bigger after a certain point/screen size).}
 
 ### Minor, Annoying, Won’t Hinder Completion
 
-- {Participants pointed out this inconsistency…}
+- {Colors on sites/borders around product list items needs fixing and cleaning up.}

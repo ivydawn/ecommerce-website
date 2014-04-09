@@ -2,58 +2,51 @@
 
 User testing was conducted by {your name} on {specific date} between the times of {start time} and {end time} with the following participants:
 
-- {Jane Doe}
-- {John Doe}
-- {Jordan Doe}
-- {Theresa Doe}
-- {Todd Doe}
-- {Taylor Doe}
+- {Giulia Balestra}
+- {Tara Boland}
+- {Logan Brandwood}
+- {Samantha Nickerson}
+- {Wilson LaBossiere}
+- {Pamela Williams}
 
 ## Tasks
 
-1. {First task description here}
-2. {Second task description here}
-3. {Third task description here}
+1. {Go through navigation bar and see pages you can click on ..home, news, jewels}
+2. {Go to jewels page}
+3. {Select buy now button on one of the diamond earrings products}
 
 ---
 
 ## Individual Results & Observations
 
-### {Jane Doe}
+### {Giulia Balestra}
 
-- {She completed the task as expected…}
-- {She had troubles completing a specific task…}
-- etc.
+- {Was able to navigate through the navigation pages as expected without trouble}
+- {was able to click on the buy now button but then the page that it went to after that was not working}
+- note: need to fix the page for shopping cart so that when you "buy now" it will lead to another page to finish up the purchase of the product. 
 
-### {John Doe}
+### {Tara Boland}
 
-- {He completed the task as expected…}
-- {He had troubles completing a specific task…}
-- etc.
+- {She completed the tasks as expected}
+- {Same probelem with shopping cart page after hitting buy now button.. not a problem with the actual testing.. just a problem with the code on the page that needs to be fixed}
 
-### {Jordan Doe}
+### {Logan Brandwood}
 
-- {They completed the task as expected…}
-- {They had troubles completing a specific task…}
-- etc.
+- {She completed the task as expected}
 
-### {Theresa Doe}
+### {Samantha Nickerson}
 
-- {She completed the task as expected…}
-- {She had troubles completing a specific task…}
-- etc.
+- {She completed the tasks as expected}
 
-### {Todd Doe}
 
-- {He completed the task as expected…}
-- {He had troubles completing a specific task…}
-- etc.
+### {Wilson LaBossiere}
 
-### {Taylor Doe}
+- {He completed the tasks as expected…}
 
-- {They completed the task as expected…}
-- {They had troubles completing a specific task…}
-- etc.
+
+### {Pamela Williams}
+
+- {She completed the tasks as expected…}
 
 ---
 
@@ -61,15 +54,10 @@ User testing was conducted by {your name} on {specific date} between the times o
 
 ### Critical, Needs Fixing, Unable to Complete
 
-- {All participants had this problem…}
-- etc.
+- {All participants had problems after the hit the buy now button.. was not trouble with completing the task but it just didn't lead to anywhere to finish up the purchase.. shopping cart page code needs to be fixed so that it leads to it}
+
 
 ### Serious, Causes Frustration, May Hinder Completion
 
-- {Two of the participants succeeded where one of them failed…}
-- etc.
+-{""}
 
-### Minor, Annoying, Won’t Hinder Completion
-
-- {Participants pointed out this inconsistency…}
-- etc.

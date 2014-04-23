@@ -5,11 +5,21 @@ title: Search
 
 <h1>Search Results</h1>
 
-<h2>Product</h2>
+{% for jewel in site.pages %}
+		{% if jewel.category == 'jewels' %}
 
-{% include jewels.html category='diamonds'%}
+<div class="unit gutter unit s-1 unit-m-1 unit-l-1-5">
+	<ul>
+				<li>
+					<a href="{{site.baseurl}}{{jewel.url}}">
+						<img class="img-flex" src="{{site.baseurl}}/images/{{jewel.image}}" alt="jewels"/>
+						{{jewel.title}}
+					</a>
+				</li>
+	</ul>
+	<a class="button micro" href="{{site.baseurl}}/cart/">Buy Now!</a>
 
-<h2>Product</h2>
+</div>
 
-{% include jewels.html category='diamonds'%}
-
+		{% endif %}
+	{% endfor %}
